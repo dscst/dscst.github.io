@@ -1,7 +1,22 @@
 # Top Menu
 topmenu:
 
-- title: Contact
+- title: Главная
+  url: ""
+
+- title: Проекты
+  url: "projects/"
+
+- title: Публикации
+  url: "publications/"
+
+- title: Конференции
+  url: "conferences/"
+
+- title: Коллектив
+  url: "staff/"
+
+- title: Контакты
   url: "contact/"
 
 # Footer Menu
