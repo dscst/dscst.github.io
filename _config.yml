@@ -1,0 +1,36 @@
+title: "Лаборатория информатики"
+shorttitle: "CS Lab"
+email: agm.main@yandex.ru
+timezone: UTC
+baseurl: ""
+# permalink: "/:title/"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+author: admin
+paginate: 30
+locale: ru_RU
+lang: ru_RU
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+# Authors
+authors:
+  admin:
+    name: admin
+    display_name: admin
+
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
