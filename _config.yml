@@ -3,7 +3,7 @@ shorttitle: "CS Lab"
 email: agm.main@yandex.ru
 timezone: UTC
 baseurl: ""
-# permalink: "/:title/"
+permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: admin
